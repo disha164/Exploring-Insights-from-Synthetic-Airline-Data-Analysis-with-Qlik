@@ -11,3 +11,5 @@ Customer Experience Enhancement: Elevating passenger experience is crucial. With
 
 Embark on this journey with us and explore the sky-high possibilities of data-driven insights in the airline industry!
 
+![image](https://github.com/disha164/Exploring-Insights-from-Synthetic-Airline-Data-Analysis-with-Qlik/assets/164503121/47ecc8ab-241e-4a7d-9384-ac8552b98129)
+![Screenshot 2024-06-08 at 4 47 22 PM](https://github.com/disha164/Exploring-Insights-from-Synthetic-Airline-Data-Analysis-with-Qlik/assets/164503121/58b76e72-8ef1-4831-97a5-1ce3e51fd713)
